@@ -2,8 +2,8 @@
 main:
   - title: "Project"
     url: https://github.com/donpp237
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Package"
+     url: https://www.nuget.org/profiles/Gijung2
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
