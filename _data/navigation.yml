@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://donpp237.github.io/
   - title: "Project"
     url: https://github.com/donpp237
   #- title: "Package"
