@@ -1,6 +1,6 @@
 ---
 title: "WeakReference"
-permalink: /Study/
+permalink: /study/
 layout: single
 ---
 
