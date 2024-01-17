@@ -4,8 +4,6 @@ permalink: /study/
 layout: single
 ---
 
-# WeakReference
-
 ## 개요
 
 WeakReference Class에 대한 내용 검토
