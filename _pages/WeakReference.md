@@ -1,3 +1,9 @@
+---
+title: "WeakReference"
+permalink: /Study/
+layout: single
+---
+
 # WeakReference
 
 ## 개요
