@@ -32,3 +32,8 @@ WeakReference refTest = new WeakReference(test);
 WeakReference refTest = new WeakReference(test);
 Test temp = (Test)refTest?.Target;
 ```
+
+### 주의
+
+Debug 빌드로 테스트했을 경우 Target이 Null로 변경되지 않을 수 있기 때문에
+Release 빌드 테스트까지 확인해봐야한다.
