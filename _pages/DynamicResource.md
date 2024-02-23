@@ -1,6 +1,6 @@
 ---
 title: "DynamicResource"
-permalink: /study/
+permalink: /home/
 layout: single
 ---
 
