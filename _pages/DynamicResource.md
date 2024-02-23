@@ -1,7 +1,7 @@
 ---
 title: "DynamicResource"
 permalink: /home/
-layout: single
+layout: category
 ---
 
 ## 개요
