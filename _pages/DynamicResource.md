@@ -1,4 +1,8 @@
-# DynamicResource
+---
+title: "DynamicResource"
+permalink: /study/
+layout: single
+---
 
 ## 개요
 
