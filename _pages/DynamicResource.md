@@ -1,7 +1,7 @@
 ---
 title: "DynamicResource"
-permalink: /home/
-layout: category
+layout: archive
+permalink: categories/csharp
 ---
 
 ## 개요
