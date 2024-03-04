@@ -1,7 +1,7 @@
 ---
 title: "WeakReference"
-permalink: /study/
-layout: single
+layout: archive
+permalink: categories/csharp
 ---
 
 ## 개요
